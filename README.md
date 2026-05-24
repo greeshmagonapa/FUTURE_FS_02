@@ -121,9 +121,10 @@ CRM-task2/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/greeshmagonapa/FUTURE_FS_02>
 ```
-
+## Live Demo 
+https://whimsical-tanuki-2a66a9.netlify.app/
 ---
 
 ## 2️⃣ Open Project Folder
