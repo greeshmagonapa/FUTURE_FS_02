@@ -115,6 +115,7 @@ CRM-task2/
 ```
 
 ---
+*** Frontend deployed using netlify.Backend runs locally***
 
 # ⚙️ Installation & Setup
 
