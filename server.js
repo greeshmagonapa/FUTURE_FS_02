@@ -93,7 +93,7 @@ app.delete("/api/leads/:id", (req, res) => {
     });
 });
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
 
