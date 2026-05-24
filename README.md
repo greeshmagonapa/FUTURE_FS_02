@@ -1,4 +1,3 @@
-# FUTURE_FS_02
 # 🚀 Mini CRM System
 
 A simple yet functional **Customer Relationship Management (CRM)** system built using **React.js**, **Node.js**, and **Express.js**.
@@ -115,6 +114,84 @@ CRM-task2/
 └── README.md
 ```
 
+---
+
+# ⚙️ Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone <your-github-repository-link>
+```
+
+---
+
+## 2️⃣ Open Project Folder
+
+```bash
+cd CRM-task2
+```
+
+---
+
+# 🔹 Frontend Setup
+
+Open terminal:
+
+```bash
+cd client
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run frontend:
+
+```bash
+npm start
+```
+
+Frontend runs on:
+
+```bash
+http://localhost:3000
+```
+
+(or another available port)
+
+---
+
+# 🔹 Backend Setup
+
+Open another terminal:
+
+```bash
+cd server
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run backend server:
+
+```bash
+npm run dev
+```
+
+Backend runs on:
+
+```bash
+http://localhost:5000
+```
+
+---
+
 # 📡 API Endpoints
 
 ## Get All Leads
@@ -210,3 +287,9 @@ This project helped in understanding:
 # 👩‍💻 Developed By
 
 Greeshma
+
+---
+
+# ⭐ If You Like This Project
+
+Give this repository a ⭐ on GitHub.
